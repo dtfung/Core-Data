@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__46-[qcdDemoCollectionViewController sendHTTPGet]_block_invoke:qcdDemoCollectionViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "company.stockPrice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[qcdDemoAppDelegate managedObjectModel]:qcdDemoAppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DAO loadAllCompanies]:DAO.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.appDelegate.managedObjectContext ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
